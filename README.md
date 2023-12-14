@@ -2,7 +2,7 @@
 <img width="641" alt="Capture d’écran 2023-12-14 à 10 13 19" src="https://github.com/Zzappy24/Pong/assets/102799524/3aad8b07-40f4-4202-b98d-cf7347ff9d3c">
 <img width="792" alt="Capture d’écran 2023-12-14 à 01 38 53" src="https://github.com/Zzappy24/Pong/assets/102799524/6b26251f-c294-4a2f-a4b2-444fcf7f9552">
 
-
+mardown("***")
 # With Snake, the agent learn well to play as you can see : 
 the Author : https://github.com/patrickloeber/snake-ai-pytorch.git 
 <img width="628" alt="Capture d’écran 2023-12-14 à 10 37 04" src="https://github.com/Zzappy24/Pong/assets/102799524/f9a63bda-045c-4a60-b38d-466d8f6c493a">
