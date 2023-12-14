@@ -4,7 +4,7 @@
 
 
 # With Snake, the agent learn well to play as you can see : 
-
+the Author : https://github.com/patrickloeber/snake-ai-pytorch.git 
 <img width="628" alt="Capture d’écran 2023-12-14 à 10 37 04" src="https://github.com/Zzappy24/Pong/assets/102799524/f9a63bda-045c-4a60-b38d-466d8f6c493a">
 <img width="634" alt="Capture d’écran 2023-12-14 à 10 36 45" src="https://github.com/Zzappy24/Pong/assets/102799524/9e3e41fe-4f5e-425f-b9e1-f8f21abb5e3c">
 
